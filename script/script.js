@@ -1,12 +1,12 @@
 let data = [
     {
         id: 0,
-        singer: "Masew, Huyền Tâm Môn",
-        song: "Phố Đã Lên Đèn",
-        ["img-cd"]: "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/9/7/8/d/978d12830c18df95c26e93e658019166.jpg",
-        ["audio-scr"]: "./assets/musics/Phố Đã Lên Đèn.mp3"
+        singer: "Linkin Park",
+        song: "Numb",
+        ["img-cd"]: "https://th.bing.com/th/id/R.8dba17f4fe545e9d12c033717dc1ba8c?rik=JLy1C%2fvLdN9qOg&riu=http%3a%2f%2f1.bp.blogspot.com%2f-TOdCzHapb0w%2fUV_IF8oUY5I%2fAAAAAAAADMM%2fvDhRbuVtXdw%2fs1600%2fnumb.jpg&ehk=vWbZFKJI24U64iIRgcmB28289cw%2fMHoOppcX%2fk51Hn0%3d&risl=&pid=ImgRaw&r=0",
+        ["audio-scr"]: "./assets/musics/Numb.mp3"
     },
-
+    
     {
         id: 1,
         singer: "JSOL",
@@ -101,7 +101,16 @@ let data = [
         song: "Không Phải Tại Nó",
         ["img-cd"]: "https://i.ytimg.com/vi/UdhUVx9fe_w/maxresdefault.jpg",
         ["audio-scr"]: "./assets/musics/Không Phải Tại Nó.mp3"
-    }
+    },
+    {
+        id: 13,
+        singer: "Masew, Huyền Tâm Môn",
+        song: "Phố Đã Lên Đèn",
+        ["img-cd"]: "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/9/7/8/d/978d12830c18df95c26e93e658019166.jpg",
+        ["audio-scr"]: "./assets/musics/Phố Đã Lên Đèn.mp3"
+    },
+
+    
 ]
 
 let $ = document.querySelector.bind(document);
